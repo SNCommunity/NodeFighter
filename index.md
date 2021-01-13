@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to the offical Node Fighter website
 
-You can use the [editor on GitHub](https://github.com/SNCommunity/NodeFighter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Premise
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The exact details of Node Fighter are to be decided (and you can help decide things if you join the offical Node Fighter [Discord server](https://discord.gg/ZjpZRmDfBn)), but some cool things are planned. For one, the appeal of Node Fighter will be performance and customizability. For example, all players will have access to a developer console much like the one available in source engine games and, possibly, all players will have the ability to import custom stickfigures exported from Stick Nodes for instant use as figthers in Node Fighter. The game will be performant and lite because it's not being built on a bloaty game engine, but rather a lightweight game development framework called "LibGDX" (which happens to be the same framework Stick Nodes is written in).
 
-### Markdown
+Also, the game will be 100% free and open source, forever and always (this includes in-app purchases).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Roadmap
 
-```markdown
-Syntax highlighted code block
+| Phase   | Goal                                                                                                                  |
+|---------|-----------------------------------------------------------------------------------------------------------------------|
+| Phase 1 | Create functional loading screen, main menu screen, settings screen, and a basic Box2D implementation for game screen |
+| Phase 2 | Implement Ashley Entity Component System                                                                              |
+| Phase 3 | Implement an asset manager                                                                                            |
+| Phase 4 | Implement method for instantiating an ECS based "player" class which extends a "fighter" class into the Box2D world   |
+| Phase 5 | Implement ECS based sprites and animations                                                                            |
+| Phase 6 | Add mobile controls                                                                                                   |
+| Phase 7 | Polish keyboard controls & add gamepad controls                                                                       |
+| Phase 8 | (TBD)                                                                                                                 |
 
-# Header 1
-## Header 2
-### Header 3
+### Concept Art
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SNCommunity/NodeFighter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+(Coming soon)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Have questions, or want to follow development of Node Fighter? Join the offical Node Fighter [Discord server](https://discord.gg/ZjpZRmDfBn).
