@@ -2,7 +2,7 @@
 
 ### Premise
 
-The exact details of Node Fighter are to be decided (and you can help decide things if you join the offical Node Fighter [Discord server](https://discord.gg/ZjpZRmDfBn)), but some cool things are planned. The game will be performant and lite because it's not being built on a bloaty game engine, but rather a lightweight game development framework called "LibGDX" (which happens to be the same framework Stick Nodes is written in). All players will also have access to all in-game development/debug tools that are made, out of the box.
+The exact details of Node Fighter are to be decided (and you can help decide things if you join the offical Node Fighter [Discord server](https://discord.gg/ZjpZRmDfBn)), but some cool things are planned. The game will be performant and lite because it's not being built on a bloaty game engine, but rather a lightweight game development framework called "LibGDX" (which happens to be the same framework that Stick Nodes is built on). All players will also have access to all in-game development/debug tools that are made, out of the box.
 
 Also, the game will be 100% free and open source, forever and always (this includes in-app purchases).
 
