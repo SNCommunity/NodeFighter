@@ -6,7 +6,7 @@ The exact details of Node Fighter are to be decided (and you can help decide thi
 
 Also, the game will be 100% free and open source, forever and always (this includes in-app purchases).
 
-### Roadmap
+### Short-term Roadmap
 
 | Phase   | Goal                                                                                                                  |
 |---------|-----------------------------------------------------------------------------------------------------------------------|
